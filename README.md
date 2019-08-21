@@ -10,6 +10,7 @@ In order to see all results, you can plot the results via "Plot_results.m" for a
 If you have any questions, please feel free to contact me: seungsab@gmail.com (Dr. Seung-Seop Jin).
 
 Before you run the codes, you need the following MATLAB toolboxes. 
+
 [1] GPML toolbox (for Gaussian process): http://www.gaussianprocess.org/gpml/code/matlab/doc/
 - C.E. Rasmussen, C.K.I. Williams, Gaussian processes for machine learning, MIT Press, Cambridge, Mass., 2006.
 
