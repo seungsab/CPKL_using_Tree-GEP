@@ -3,18 +3,18 @@
 Compositional Kernel Learning using Tree-based Genetic Programming (CPKL_Tree-GEP) for Gaussian Proecess Regression
 
 The source codes in this repository are uploaded for the replication of results section.
-This source codes are only working for the 2-dimensional Mathematical test function ("Branin function")
+These source codes are only working for the 2-dimensional Mathematical test function ("Branin function")
 
 Three methods can be implemented by running following m-files
 - Run_Singel_kernel_GPML.m: Gaussian Process using single kernels
 - Run_AUTO_GPR_GPML_HCPKL.m: Gaussian Process using Hierarchical CPK
 - Run_AUTO_GPR_GPML_GPlab.m: Gaussian Process using CPKL_Tree-GEP
 
-All results given in the manuscript are in the folder of "1_Test_functions" and "2_Physical_models"
+All results given in the manuscript are in the folders as "1_Test_functions" and "2_Physical_models"
 - To see the results from Matehmatical test functions, run "Plot_Results_Test_function.m"
 - To see the results from Physcial models, run "Plot_Results_Physcial_models.m"
 
-If you have any questions, please feel free to contact me: seungsab@gmail.com (Dr. Seung-Seop Jin).
+If you have any questions, please feel free to contact me: seungsab@gmail.com (Seung-Seop Jin).
 
 
 
