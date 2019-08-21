@@ -10,7 +10,7 @@ Three methods can be implemented by running following m-files
 - Run_AUTO_GPR_GPML_HCPKL.m: Gaussian Process using Hierarchical CPK
 - Run_AUTO_GPR_GPML_GPlab.m: Gaussian Process using CPKL_Tree-GEP
 
-All results given in the manuscript are in the folder of "Result"
+All results given in the manuscript are in the folder of "1_Test_functions" and "2_Physical_models"
 - To see the results from Matehmatical test functions, run "Plot_Results_Test_function.m"
 - To see the results from Physcial models, run "Plot_Results_Physcial_models.m"
 
