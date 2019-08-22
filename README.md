@@ -4,7 +4,7 @@ Compositional Kernel Learning using Tree-based Genetic Programming (CPKL_Tree-GE
 
 The source codes in this repository are uploaded for the replication of results section.
 These source codes are only working for the 2-dimensional Mathematical test function ("Branin function").
-Due to the policy of my instititue, the source codes cannot be opened to public yet.
+Due to the policy of my institute, the source codes cannot be opened to public yet.
 To apply the method to your own application, please contact to "seungsab@gmail.com".
 
 Three methods can be implemented by running following m-files
