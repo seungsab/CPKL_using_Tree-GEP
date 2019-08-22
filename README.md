@@ -18,9 +18,9 @@ All results given in the manuscript are in the folders as "1_Test_functions" and
 
 If you have any questions, please feel free to contact me: seungsab@gmail.com (Seung-Seop Jin).
 
+Note) These source codes are developed in MATLAB R2018b. They may not worked below MATLAB R2018b.
 
-
-Before you run the codes, you need the following MATLAB toolboxes. 
+Before you run the codes, you need the following MATLAB toolboxes.
 
 [1] GPML toolbox (for Gaussian process): http://www.gaussianprocess.org/gpml/code/matlab/doc/
 - C.E. Rasmussen, C.K.I. Williams, Gaussian processes for machine learning, MIT Press, Cambridge, Mass., 2006.
