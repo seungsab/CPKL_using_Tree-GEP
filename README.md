@@ -18,7 +18,7 @@ All results given in the manuscript are in the folders as "1_Test_functions" and
 
 If you have any questions, please feel free to contact me: seungsab@gmail.com (Seung-Seop Jin).
 
-Note) These source codes are developed in MATLAB R2018b. They may not worked below MATLAB R2018b.
+Note) These source codes are developed in MATLAB R2018b. They may not be working below MATLAB R2018b.
 
 Before you run the codes, you need the following MATLAB toolboxes.
 
