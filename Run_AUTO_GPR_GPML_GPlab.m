@@ -17,15 +17,6 @@
 % via e-mail (seungsab@gmail.com)
 % Coded by SS (2019.08.21)
 
-% Updated for Replication of results
-
-% This code is only working for the following test function
-% Test function : Branin function (2-D problem)
-
-% If you need source code for CPK using tree-GEP, feel free to contact me
-% via e-mail (seungsab@gmail.com)
-% Coded by SS (2019.08.21)
-
 function main
 clc, clear all, close all, warning('off','all')
 
