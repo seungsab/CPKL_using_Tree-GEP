@@ -2,7 +2,7 @@
 
 Compositional Kernel Learning using Tree-based Genetic Programming (CPKL_Tree-GEP) for Gaussian Proecess Regression
 
-The source codes in this repository are uploaded for the replication of results section of the following work.
+The source codes in this repository are uploaded for the replication of results section for the following work.
 
 - Jin, S. Compositional kernel learning using tree-based genetic programming for Gaussian process regression. Struct Multidisc Optim 62, 1313–1351 (2020). https://doi.org/10.1007/s00158-020-02559-7
 
