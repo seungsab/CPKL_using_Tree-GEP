@@ -1,4 +1,7 @@
-# **[Release original source code]: `Released_Source_code_SAMO.zip` (MATLAB script, m-files) (Uploaded on 2024.03.07)**
+# **[Release original source code]**
+
+**`Released_Source_code_SAMO.zip` (MATLAB script, m-files) (Uploaded on 2024.03.07)**
+----
 
 # CPKL_using_Tree-GEP
 
