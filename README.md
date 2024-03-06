@@ -1,3 +1,5 @@
+# **[Release original source code]: `Released_Source_code_SAMO.zip` (MATLAB script, m-files) (Uploaded on 2024.03.07)**
+
 # CPKL_using_Tree-GEP
 
 Compositional Kernel Learning using Tree-based Genetic Programming (CPKL_Tree-GEP) for Gaussian Proecess Regression
