@@ -1,6 +1,14 @@
 # **[Release original source code]**
 
-**`Released_Source_code_SAMO.zip` (MATLAB script, m-files) (Uploaded on 2024.03.07)**
+**`Released all source codes and examples` (MATLAB script, m-files) (Uploaded on 2024.11.25)**
+
+You can utilize this work without any commercial purpose. Please cite my following work, if you use it.
+
+- [Jin, SS. Compositional kernel learning using tree-based genetic programming for Gaussian process regression. Struct Multidisc Optim 62, 1313–1351 (2020)](https://link.springer.com/article/10.1007/s00158-020-02559-7)
+- [Jin, SS, Accelerating Gaussian Process surrogate modeling using Compositional Kernel Learning and multi-stage sampling framework, Applied Soft Computing 104, 106909 (2021)](https://www.sciencedirect.com/science/article/pii/S1568494620308474)
+
+
+
 ----
 
 # CPKL_using_Tree-GEP
